@@ -81,5 +81,4 @@
 (after! org
   (setq org-directory "~/Org")
   (setq org-project-directory org-directory)
-  (setq org-roam-directory (concat org-directory "/notes"))
-  )
+  (setq org-roam-directory (concat org-directory "/notes")))
